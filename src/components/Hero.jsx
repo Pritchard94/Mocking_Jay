@@ -1,4 +1,3 @@
-import React from 'react'
 import mic from '../assets/mic.svg'
 
 const Hero = () => {

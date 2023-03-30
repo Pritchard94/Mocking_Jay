@@ -1,4 +1,3 @@
-import React from 'react'
 import search from '../assets/search.svg'
 import glass  from '../assets/glass.svg'
 import abby from '../assets/Abby.svg'

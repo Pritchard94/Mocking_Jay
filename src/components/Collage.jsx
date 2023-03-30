@@ -1,4 +1,3 @@
-import React from 'react'
 import collage from '../assets/collage.svg'
 
 const Collage = () => {

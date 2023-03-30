@@ -1,5 +1,4 @@
 import Header from "../components/Header";
-import React from 'react'
 import Search from "../components/Search";
 import Collage from "../components/Collage";
 import Footer from "../components/Footer";

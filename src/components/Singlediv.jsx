@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Singlediv = () => {
   return (
     <div className=' bg-black text-center'>

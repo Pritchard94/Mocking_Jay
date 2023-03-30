@@ -1,7 +1,5 @@
 import Header from "../components/Header";
 import Hero from "../components/Hero";
-
-import React from 'react'
 import Banner from "../components/Banner";
 import Banner2 from "../components/Banner2";
 import Singlediv from "../components/singlediv";

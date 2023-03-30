@@ -1,4 +1,3 @@
-import React from 'react'
 import bar1 from '../assets/bars.svg'
 import bar2 from '../assets/bars2.svg'
 import first from '../assets/First.svg'

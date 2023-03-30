@@ -1,4 +1,3 @@
-import React from 'react'
 import Image2 from '../assets/micB.svg'
 
 const Banner2 = () => {
