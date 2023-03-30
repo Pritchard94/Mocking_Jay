@@ -14,7 +14,7 @@ import kitty from '../assets/kitty.svg'
 
 const Search = () => {
   return (
-    <div className='mt-10 px-[30px]  lg:px-[80px]'>
+    <div className='py-[100px] px-[30px] lg:px-[80px]'>
         <div className='flex items-center justify-between'>
             <h6>Meet our Top Artistes</h6>
             <img className='hidden md:block' src={search} alt='search'/>

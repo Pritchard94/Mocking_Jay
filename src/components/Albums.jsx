@@ -11,7 +11,7 @@ import tooley from '../assets/brokeasf.svg'
 
 const Albums = () => {
   return (
-    <div className='mt-10 px-[30px]  lg:px-[80px]'>
+    <div className='py-[100px] px-[30px]  lg:px-[80px]'>
         <div className='flex items-center border-b-4 border-[#F20A0A] justify-between'>
             <h6>Music</h6>
             <div className='flex items-center pb-2'>

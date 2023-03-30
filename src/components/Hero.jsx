@@ -3,7 +3,7 @@ import mic from '../assets/mic.svg'
 const Hero = () => {
   return (
     <div className='bg-[#0D0D0D] grid w-full justify-center md:flex md:gap-20 px-[30px] md:py-[150px]'>
-        <div className='w-full md:w-[474px] mt-8'>
+        <div className='w-full md:w-[474px]  mt-[80px]'>
             <h2 className='text-white text-[30px] md:text-[60px] font-[700]'>
                 When words fail,<span className='text-[#F20A0A]'>Music</span>speaks.
             </h2>
