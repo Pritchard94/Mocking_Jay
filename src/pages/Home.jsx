@@ -4,7 +4,7 @@ import Banner from "../components/Banner";
 import Banner2 from "../components/Banner2";
 import Brands from "../components/Brands";
 import Footer from "../components/Footer";
-import Singlediv from "../components/singlediv";
+import Singlediv from "../components/Singlediv";
 
 const Home = () => {
   return (
