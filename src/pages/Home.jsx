@@ -2,7 +2,6 @@ import Header from "../components/Header";
 import Hero from "../components/Hero";
 import Banner from "../components/Banner";
 import Banner2 from "../components/Banner2";
-import Singlediv from "../components/Singlediv";
 import Brands from "../components/Brands";
 import Footer from "../components/Footer";
 
