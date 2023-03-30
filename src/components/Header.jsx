@@ -1,5 +1,6 @@
 import logo from '../assets/logo.svg'
 import { Link } from 'react-router-dom'
+import {AiOutlineMenu, AiOutlineClose} from 'react-icons/ai'
 
 const Header = () => {
   return (
