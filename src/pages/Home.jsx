@@ -4,6 +4,7 @@ import Banner from "../components/Banner";
 import Banner2 from "../components/Banner2";
 import Brands from "../components/Brands";
 import Footer from "../components/Footer";
+import Singlediv from "../components/singlediv";
 
 const Home = () => {
   return (
@@ -12,7 +13,7 @@ const Home = () => {
         <Hero/>
         <Banner/>
         <Banner2/>
-        
+        <Singlediv/>
         <Brands/>
         <Footer/>
       
